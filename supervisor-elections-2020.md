@@ -3,10 +3,8 @@
 *Conducted by DashWatch on behalf of the Dash Investment Foundation*
 
 - June 1, 2020 – June 19, 2020: Open applications
-- June 20, 2020 – June 21, 2020:  Finalize election page and candidate profiles
-- June 22, 2020 – July 3, 2020: Open Masternode voting period
-- July 4, 2020 – July 5, 2020: Vote tallying and validation 
-- July 6, 2020 – Results announced 
+- June 29, 2020 – July 10, 2020: Open Masternode voting period
+- July 13, 2020 – Results announced 
 
 If interested to run for DIF supervisor, send your completed application (and the optional Q&A if you wish) to team@dashwatch.org by 11:59pm UTC on June 19, 2020.
 
