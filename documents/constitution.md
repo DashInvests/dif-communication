@@ -13,6 +13,7 @@
   a. Dash ecosystem growth (estimated to lead to currency appreciation through increased demand for Dash; not measurable)
 
   b. Currency buying and “burning” (estimated to lead to currency appreciation through decreased supply of Dash; measurable)
+
 2. The secondary purpose of this organization is, when prudent, to perform due diligence and make voting recommendations to the Dash network on treasury proposals made by profit-seeking entities.
 3. All activities of this organization must be directed toward these purposes.
 
