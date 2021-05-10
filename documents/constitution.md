@@ -55,7 +55,9 @@ All supervisors and directors are required to attend an annual general meeting.
 ## Section B.
 Meetings of supervisors and directors may be called by any combination of three of the supervisors in the case of supervisors, or one director in the case of directors. Notice of special meetings must be communicated to all supervisors and directors at least 48 hours in advance of the meeting.
 
-## Section C. To conduct business at any meeting, at least three supervisors must be present.
+## Section C.
+
+To conduct business at any meeting, at least three supervisors must be present.
 
 # ARTICLE V. COMMITTEES
 
