@@ -40,11 +40,11 @@
 
 ## Section B. NOMINATIONS AND ELECTIONS
 
-1. Any eligible community member may submit themselves once per year by 1st July of any year.
+1. Any eligible community member, may submit themselves once per year by 1st July of any year, with elections to be held in July of each year
 2. Each masternode is afforded one vote per candidate in an approval style election.
-3. In 2021 the six eligible candidates with the most approval votes will be appointed as supervisors. The three supervisors out of these with the most votes will be appointed to seats with a two year term. Other supervisors will be appointed to seats for a one year term.
-4. Years following 2021, the three candidates with the most approval votes will be appointed for two year terms.  
-5. In the event that fewer candidates receive a non-zero number of votes than available board seats, elected supervisors may fill a vacancy by majority vote.
+3. Commencing in July 2021 and in each annual election thereafter, the three candidates with the most approval votes will be appointed for two year terms and any other candidates elected to open seats will be appointed for a one year term.
+4. In the event that fewer candidates receive a non-zero number of votes than available board seats, the current supervisors may fill a vacancy by majority vote.
+5. Notwithstanding any election result, a candidate who subsequently to being elected does not fulfill eligibility requirements (including without limitation the inability/unwillingness to fulfill KYC obligations) shall not be appointed as a supervisor and in such case the current supervisors may fill such vacancy by majority vote. 
 
 ## Section C. DIRECTOR TERMS and REPLACEMENTS
 
