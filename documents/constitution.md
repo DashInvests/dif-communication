@@ -24,28 +24,31 @@
 
 1. Six supervisor roles exist within the organization, all of which are subject to an annual election by the Dash network except for the first year in which two of the six spots are pre-appointed.
 2. Two director roles exist within the organization, both of which are appointable by the elected supervisors.
-3. Any and all other positions that may be required in the future can be created and filled by the supervisors via majority vote and/or their delegates
+3. Any and all other positions that may be required in the future can be created and filled by the supervisors via majority vote and/or their delegates.
 
 ## Section B. WITHDRAWAL OF MEMBERSHIP
 
-1. The supervisors may dismiss a director, or any other high-level staff, via a majority vote
-2. Five supervisors voting unanimously may propose to dismiss a sixth supervisor
+1. The supervisors may dismiss a director, or any other high-level staff, via a majority vote.
+2. Five supervisors voting unanimously may propose to dismiss a sixth supervisor.
 
 # ARTICLE III. OFFICERS
 
 ## Section A. REQUIREMENTS FOR RUNNING FOR AND HOLDING OFFICE
 
 1. All officers and candidates for office must meet the requirements established by applicable Cayman Islands law.
-2. Only supervisors shall be voting members of the DIF.
+2. Only supervisors shall be voting members of the DIF Board of Supervisors.
 
 ## Section B. NOMINATIONS AND ELECTIONS
 
-1. Candidates for DIF office may submit themselves once per year by 1st July.
-2. The six supervisor candidates which receive the most votes in the approval-style election shall be named to office.
+1. Any eligible community member, may submit themselves once per year by 1st July of any year, with elections to be held in July of each year
+2. Each masternode is afforded one vote per candidate in an approval style election.
+3. Commencing in July 2021 and in each annual election thereafter, the three candidates with the most approval votes will be appointed for two year terms and any other candidates elected to open seats will be appointed for a one year term.
+4. In the event that fewer candidates receive a non-zero number of votes than available board seats, the current supervisors may fill a vacancy by majority vote.
+5. Notwithstanding any election result, a candidate who subsequently to being elected does not fulfill eligibility requirements (including without limitation the inability/unwillingness to fulfill KYC obligations) shall not be appointed as a supervisor and in such case the current supervisors may fill such vacancy by majority vote. 
 
-## Section C.
+## Section C. DIRECTOR TERMS and REPLACEMENTS
 
-As appointed rather than elected officials, directors shall retain their office indefinitely until either resignation or removal by the supervisors, subject to any termination of contractual terms agreed upon with the DIF
+As appointed rather than elected officials, directors shall retain their office indefinitely until either resignation or removal by the supervisors, subject to any termination of contractual terms agreed upon with the DIF.
 
 # ARTICLE IV. MEETINGS
 
